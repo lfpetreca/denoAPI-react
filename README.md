@@ -6,4 +6,4 @@
 `npm start`
 
 ## SeverSide 
-`deno run --allow-net app.ts`
+`deno run --allow-net --unstable --allow-read --allow-write --allow-plugin app.ts`
